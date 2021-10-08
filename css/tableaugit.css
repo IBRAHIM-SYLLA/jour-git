@@ -1,0 +1,30 @@
+table{
+    border: rgb(4, 4, 15) solid;
+border-width: 3px;
+border-style: solid;
+border-collapse: collapse;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+td{
+    border-width: 3px;
+    border-style:solid; 
+    border-color:rgb(26, 16, 15);
+    width:50%;
+    background-color: rgb(255, 0, 0);
+   
+}
+body{
+    /* background-color: red; */
+    height: 100vh;
+}
+th{
+    border-width: 3px;
+    border-style:solid; 
+    border-color:rgb(26, 16, 15);
+    width:50%;
+    background-color: rgb(25, 0, 255);
+   
+}
+body{
+    background-color: black;
+}
